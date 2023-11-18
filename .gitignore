@@ -7,4 +7,5 @@
 
 config.json
 
-/notebooks/
+notebooks/EDA.ipynb
+notebooks/model.ipynb
