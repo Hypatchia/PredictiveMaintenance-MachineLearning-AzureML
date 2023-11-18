@@ -4,3 +4,6 @@
 /venv
 .vscode
 
+
+/.azureml/config.json
+

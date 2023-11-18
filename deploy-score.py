@@ -118,7 +118,7 @@ parent_dir="./config"
 
 # Load the components
 prepare_score = load_component(source=os.path.join(parent_dir, "prepare-score.yml"))
-score_model = load_component(source=os.path.join(parent_dir, "score.yml"))
+score_model = load_component(source=os.path.join(parent_dir, "score-model.yml"))
 
 
 

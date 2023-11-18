@@ -17,7 +17,7 @@ outputs:
 code: ../scripts
 environment: azureml://registries/azureml/environments/sklearn-1.0/versions/18
 command: >-
-  python score.py
+  python score_model.py
   --input_data ${{inputs.input_data}}
   --input_model ${{inputs.input_model}}
   --output_data ${{outputs.output_data}}
