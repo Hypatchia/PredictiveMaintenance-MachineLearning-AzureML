@@ -5,7 +5,7 @@ This project aims to address this issue by building an azure machine learning pi
 Anticipating machine failures leads to making informed decisions on production planning and resource allocation.
 This approach empowers businesses to proactively manage maintenance, minimize downtime, and optimize operational efficiency
 
-You can check the Evaluation & Exploratory Data Analysis on this repository:
+You can check also checj the Local training, Evaluation & Exploratory Data Analysis on this repository with notebooks and results saved and shown:
 <a>https://github.com/Hypatchia/MachineFailure-Scikitlearn-Mlflow</a>
 
 ## Built with:
