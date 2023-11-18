@@ -1,0 +1,5 @@
+{
+    "subscription_id": "3cc9f3df-5add-4626-a824-f4b35b33fd20",
+    "resource_group": "machinelearning-rg",
+    "workspace_name": "FailurePrediction"
+}
