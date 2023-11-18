@@ -5,5 +5,5 @@
 .vscode
 
 
-/.azureml/config.json
+config.json
 

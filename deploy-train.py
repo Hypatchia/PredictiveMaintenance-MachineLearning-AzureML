@@ -76,7 +76,7 @@ custom_env_name = "aml-scikit-learn"
 
 env= Environment(
     name=custom_env_name,
-    description="Custom environment for Credit Card Defaults pipeline",
+    description="Custom environment pipeline",
     tags={"scikit-learn": "0.24.2"},
     conda_file="conda_dependencies.yaml",
     image="mcr.microsoft.com/azureml/openmpi4.1.0-ubuntu20.04:latest",
